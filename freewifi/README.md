@@ -7,4 +7,4 @@ Un script pour se connecter facilement aux Hotspot FreeWifi en ligne de commande
 # To Do :
 
     - Freeze
-    - C version
+    - C version/binds pour les identifiants car je pense qu'on peut retrouver les Salt avec un freeze Python
