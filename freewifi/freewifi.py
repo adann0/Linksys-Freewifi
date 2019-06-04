@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-SALT1 = "***_O_O_Top_Secret_O_O_***" # Genere aleatoirement au moment de la compilation
-SALT2 = "***_O_O_Top_Secret_O_O_***" #
+SALT1 = "***_O_O_Top_Secret_O_O_***" # A changer
+SALT2 = "***_O_O_Top_Secret_O_O_***" # A changer
 
 import sys
 import os
