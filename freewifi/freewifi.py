@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 SALT1 = "***_O_O_Top_Secret_O_O_***" # Changer la valeur
-SALT2 = "***_O_O_Top_Secret_O_O_***" # Changer la valeur
+SALT2 = "***_O_O_Top_Secret_O_O_***" # puis compiler
 
 import sys
 import os
