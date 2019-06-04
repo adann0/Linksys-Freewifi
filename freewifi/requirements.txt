@@ -1,0 +1,2 @@
+argon2==0.1.10
+cryptography==2.7
