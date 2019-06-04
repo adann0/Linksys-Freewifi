@@ -17,7 +17,7 @@ Pas besoin de refaire un reset 30/30/30 sauf si on veut upgrade sur un autre fir
 
 # SpeedTest
 
-# Sources :
+# Sources
 
   Installer DD-WRT depuis le Firmware propriétaire : https://wiki.dd-wrt.com/wiki/index.php/Linksys_WRT54GL
   Hard Reset : https://wiki.dd-wrt.com/wiki/index.php/Hard_reset_or_30/30/30#Hard_Reset_.28aka_30.2F30.2F30_reset.29
