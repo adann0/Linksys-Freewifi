@@ -11,7 +11,7 @@ Après le reset, si tout a fonctionné, l'interface web se trouve à l'adresse 1
 
 Dans Administration > Firmware Upgrade on met le firmware precedement téléchargé et on click sur Upgrade (ne pas quitter la page). A la fin on a un message "Upgrade Successful". On click sur continuer. (user : root / password : admin)
 
-Pas besoin de refaire un reset 30/30/30 sauf si on veut upgrade sur un autre firmware dd-wrt (? a verifier).
+Pas besoin de refaire un reset 30/30/30 sauf si on veut upgrade sur un autre firmware dd-wrt (? à verifier).
 
 # Configuration du Hotspot
 
