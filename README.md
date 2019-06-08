@@ -13,7 +13,7 @@ Le mieux est de tester le tout dans un premier temps sur sa propre connection si
     - Mettre en route le Routeur
     - Mettre en route le Raspberry (ordinateur)
     
-Une fois sur le Raspberry (testé en HDMI, pas SSH) le routeur est à l'adresse 192.168.1.1 et le mot de passe est "admin". Si on est connecté a l'interface web le routeur fonctionne et on passe a l'étape suivante.
+Une fois sur le Raspberry (testé en HDMI, pas SSH) le routeur est à l'adresse 192.168.1.1 et le mot de passe est "admin". Si on est connecté a l'interface web le routeur fonctionne - on peut changer le "routeur name" par exemple, pour être sur que le Hard Reset que l'on va faire ensuite se sera bien passé - et on passe a l'étape suivante.
 
 # Installation du Firmware DD-WRT
 
