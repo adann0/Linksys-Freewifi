@@ -1,7 +1,23 @@
 # Linksys-Freewifi
 Etude de faisabilité - Améliorer un signal Hotspot Freewifi/Public avec un routeur Linksys WRT54GL, le firmware DD-WRT et des antennes TP-Link 8dBi.
 
+# Installation du Routeur
+
+Pour vérifier que tout fonctionne bien, j'ai testé le tout a la maison :
+
+    - Deconnecter tout les appareils du réseau
+    - Débrancher la Freebox (modem)
+    - Connecter le routeur à la Freebox par le port Internet
+    - Connecter le routeur à un Raspberry ou un ordinateur disposant d'un port Ethernet pouvant être relié au routeur...
+    - Mettre en route la Freebox (modem)
+    - Mettre en route le Routeur
+    - Mettre en route le Raspberry (ordinateur)
+    
+Une fois sur le Raspberry (testé en HDMI, pas SSH) le routeur est à l'adresse 192.168.1.1 et le mot de passe est "admin". Si on est connecté a l'interface web le routeur fonctionne et on passe a l'étape suivante.
+
 # Installation du Firmware DD-WRT
+
+https://wiki.dd-wrt.com/wiki/index.php/Linksys_WRT54GL
 
 Dans un premier temps il faut télécharger le firmware pour notre routeur version MINI GENERIC sur le site de dd-wrt : https://dd-wrt.com/support/router-database/?model=WRT54GL_1.0/1.1
 
