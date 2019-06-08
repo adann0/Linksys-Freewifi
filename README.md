@@ -3,7 +3,7 @@ Etude de faisabilité - Améliorer un signal Hotspot Freewifi/Public avec un rou
 
 # Installation du Routeur
 
-Le mieux est de tester le tout dans un premier temps sur sa propre connection :
+Le mieux est de tester le tout dans un premier temps sur sa propre connection si on vient de recevoir le routeur :
 
     - Deconnecter tout les appareils du réseau
     - Débrancher la Freebox (modem)
