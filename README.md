@@ -23,7 +23,7 @@ Dans un premier temps il faut télécharger le firmware pour notre routeur versi
 
 Ensuite il faut faire un Reset 30/30/30 sur le routeur (https://wiki.dd-wrt.com/wiki/index.php/Hard_reset_or_30/30/30).
 
-Après le reset, si tout a fonctionné, l'interface web se trouve à l'adresse 192.168.1.1 (password : admin)
+Après le reset, si tout a fonctionné, l'interface web se trouve à l'adresse 192.168.1.1 (password : admin) - et le routeur s'appel de nouveau WRT54GL.
 
 Dans Administration > Firmware Upgrade on met le firmware precedement téléchargé et on click sur Upgrade (ne pas quitter la page). A la fin on a un message "Upgrade Successful". On click sur continuer. (user : root / password : admin)
 
