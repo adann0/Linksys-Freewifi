@@ -25,9 +25,9 @@ Ensuite il faut faire un Reset 30/30/30 sur le routeur (https://wiki.dd-wrt.com/
 
 Après le reset, si tout a fonctionné, l'interface web se trouve à l'adresse 192.168.1.1 (password : admin) - et le routeur s'appel de nouveau WRT54GL.
 
-Dans Administration > Firmware Upgrade on met le firmware precedement téléchargé et on click sur Upgrade (ne pas quitter la page). A la fin on a un message "Upgrade Successful". On click sur continuer. (user : root / password : admin)
+Dans Administration > Firmware Upgrade on met le firmware precedement téléchargé et on click sur Upgrade (ne pas quitter la page). A la fin on a un message "Upgrade Successful". On click sur continuer et si on retourne sur 192.168.1.1 on a la page de DD-WRT.
 
-Pas besoin de refaire un reset 30/30/30 sauf si on veut upgrade sur un autre firmware dd-wrt (? à verifier).
+Ensuite il faut refaire un Reset 30/30/30. On retourn sur 192.168.1.1, on définit le nom d'utilisateur et le mot de passe et l'installation est completée.
 
 # Configuration du Hotspot
 
