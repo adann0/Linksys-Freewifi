@@ -1,5 +1,5 @@
 # Linksys-Freewifi
-Etude de faisabilité - Améliorer un signal Hotspot Freewifi/Public avec un routeur Linksys WRT54GL, le firmware DD-WRT et des antennes TP-Link 8dBi.
+Etude de faisabilité - Améliorer un signal Hotspot Freewifi/Public avec un routeur Linksys WRT54GL.
 
 # Installation du Routeur
 
@@ -29,9 +29,9 @@ Dans Administration > Firmware Upgrade on met le firmware precedement téléchar
 
 Ensuite il faut refaire un Reset 30/30/30. On retourn sur 192.168.1.1, on définit le nom d'utilisateur et le mot de passe et l'installation est completée.
 
-# Configuration du Hotspot
-
 # SpeedTest
+
+J'arrive a avoir 1Mbps en Download d'après le Speedtest Google, sur un Hotspot Freewifi bridé à 1Mbps d'après certains forums... Alors que mon ordinateur, sans le Routeur, n'arrivais pas à se connecter sur le FreeWifi (trop loin certainement). C'est plutôt reussi donc, même si le débit reste terriblement lent dès qu'il s'agit de télécharger quelque chose (plus ou moins 100ko/s dans les meilleurs moments il faut être patient).
 
 # Sources
 
